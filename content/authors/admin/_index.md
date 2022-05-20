@@ -1,5 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+title: Jhonatan Guedes-Santos
+bio: My research interests include conservation culturomics, protected areas and biodiversity conservation
   matter.
 education:
   courses:
@@ -15,13 +16,12 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- Biodiversity Conservation
+- Protected Areas
+- Conservation Culturomics
+- R Programming
+- Python
+- Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,7 +39,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
