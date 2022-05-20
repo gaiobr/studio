@@ -5,7 +5,7 @@ bio: My research interests include conservation culturomics, protected areas and
 education:
   courses:
   - course: DSc in Biological Diversity and Conservation in the Tropics
-    institution: Massachusetts Institute of Technology
+    institution: Federal University of Alagoas
     year: 2021
   - course: BSc in Biological Diversity and Conservation in the Tropics
     institution: Federal University of Alagoas
@@ -31,7 +31,7 @@ social:
   link: https://scholar.google.com/citations?user=RJC1nz0AAAAJ
 - icon: github
   icon_pack: fab
-  link: github.com/gaiobr/
+  link: https://github.com/gaiobr/
 superuser: true
 ---
 
